@@ -1,0 +1,21 @@
+Field,Description
+Invoice ID,Invoice ID of the transaction
+Branch ,One out of 3 branches. Every city belongs to a different branch
+CustomerID,Customer ID of the cutomer doing transaction
+City,City where the tx took place. The chain has stores in 3 cities
+Customer Type,Where a member or normal customer
+Gender,Male or Female
+Product Line,Product line of the product purchased
+Unit Price,Unit price of product purchased
+Quantity,Qty purchased
+Tax 5%,Tax as a fixed % of invoice
+Total,Total Invoice amount
+Date,Date of tx
+Time,Time of tx
+Payment,Payment mode
+cogs,Cost of goods sold
+gross margin,Margin %
+gross income,Margin amount
+Rating,Rating given by cx out of 10
+Longitude,Geo field for tx location
+Latitude,Geo field for tx location
